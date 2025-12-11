@@ -147,9 +147,3 @@ The script prints a confirmation for each sent email and sleeps 30 seconds betwe
 This project is provided as-is. Use it responsibly.
 
 ---
-
-If you want, I can:
-
-* Convert the script to use environment variables so credentials aren't stored in plaintext.
-* Add an HTML email template and examples.
-* Produce a `requirements.txt` (not needed for this script) or add CLI flags.
