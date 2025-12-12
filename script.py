@@ -6,7 +6,7 @@ import time
 
 # Your Gmail credentials
 SENDER_EMAIL = "vansh.agg003@gmail.com"
-APP_PASSWORD = "egbgxsbkxjsytcuv"
+APP_PASSWORD = "" #set your app password here
 
 # Subject of your email
 SUBJECT = "Regarding Software Engineer Job Opportunities"
